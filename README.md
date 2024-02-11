@@ -1,4 +1,4 @@
-# e-commerce-store
+# e-commerce-website
 
  ## Technology Which I Used
    ***Backend***
